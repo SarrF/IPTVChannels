@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,###### WOrld Sports ######
 #EXTINF:-1,beIN Sports 1 HD (FR)
 http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/20.ts
@@ -8,9 +7,9 @@ http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/21.ts
 #EXTINF:-1,beIN Sports 3 HD (FR)
 http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/22.ts
 #EXTINF:-1,beIN Sports 11 HD (EN)
-http://rb-group-server.com:25461/live/888888/777777/3157.m3u8
+http://rb-group-server.com:25461/live/888888/777777/3157.ts
 #EXTINF:-1,beIN Sports 12 HD (EN)
-http://rb-group-server.com:25461/live/888888/777777/3156.m3u8
+http://rb-group-server.com:25461/live/888888/777777/3156.ts
 #EXTINF:-1,beIN Sports USA HD (US)
 http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/24.ts
 #EXTINF:-1,USA FoxSports 1
@@ -22,9 +21,8 @@ http://m-iptv.net:6204/lawa2/erde/9425
 #EXTINF:-1,Sky Sport 2 HD (IT)
 http://m-iptv.net:6204/lawa2/erde/9424
 #EXTINF:-1,Sky Bundesliga 1
-http://93.190.141.193:8080/live/atlasuk/34HJXu2w5t/435.m3u8
+http://93.190.141.193:8080/live/atlasuk/34HJXu2w5t/435.ts
 #EXTINF:-1,BT Sports 1
 http://rb-group-server.com:25461/live/888888/777777/4777.ts
 #EXTINF:-1,BT Sports 2
 http://rb-group-server.com:25461/live/888888/777777/4776.ts
-
