@@ -7,8 +7,7 @@ http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/20.ts
 http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/21.ts
 #EXTINF:-1,beIN Sports 3 HD (FR)
 http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/22.ts
-#EXTINF:-1,beIN Sports 4 HD (AR)
-http://rb-group-server.com:25461/live/888888/777777/3164.m3u8
+
 #EXTINF:-1,beIN Sports 5 HD (AR)
 http://rb-group-server.com:25461/live/888888/777777/3163.m3u8
 #EXTINF:-1,beIN Sports 6 HD (AR)
@@ -46,7 +45,6 @@ http://rb-group-server.com:25461/live/888888/777777/3711.m3u8
 #EXTINF:-1,USA HBO FAMILY
 http://rb-group-server.com:25461/live/888888/777777/3709.m3u8
 #EXTINF:-1,USA A&E
-
 #EXTINF:-1,USA HBO Signature
 http://rb-group-server.com:25461/live/888888/777777/3711.m3u8
 #EXTINF:-1,USA HBO FAMILY
@@ -109,7 +107,6 @@ http://rb-group-server.com:25461/live/888888/777777/3701.m3u8
 http://rb-group-server.com:25461/live/888888/777777/3700.m3u8
 #EXTINF:-1,USA WWEHD
 http://rb-group-server.com:25461/live/888888/777777/3695.m3u8
-
 #EXTINF:-1 tvg-name="US: TBS" tvg-logo="http://logo.ndasat.com/iptv/images/4477_tbs.png" group-title="{BOUQUET_NAME}",US: TBS
 http://212.8.253.47:88/555155895930609/555155895930609/1639
 #EXTINF:-1 tvg-name="US:WWE us" tvg-logo="http://logo.ndasat.com/iptv/images/94391_wwe.jpg" group-title="{BOUQUET_NAME}",US:WWE us
