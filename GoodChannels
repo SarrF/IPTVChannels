@@ -8,12 +8,7 @@ http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/21.ts
 #EXTINF:-1,beIN Sports 3 HD (FR)
 http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/22.ts
 
-#EXTINF:-1,beIN Sports 5 HD (AR)
-http://rb-group-server.com:25461/live/888888/777777/3163.m3u8
-#EXTINF:-1,beIN Sports 6 HD (AR)
-http://rb-group-server.com:25461/live/888888/777777/3162.m3u8
-#EXTINF:-1,beIN Sports 7 HD (AR)
-http://rb-group-server.com:25461/live/888888/777777/3161.m3u8
+
 #EXTINF:-1,beIN Sports 8 HD (AR)
 http://rb-group-server.com:25461/live/888888/777777/3160.m3u8
 #EXTINF:-1,beIN Sports 9 HD (AR)
@@ -107,27 +102,27 @@ http://rb-group-server.com:25461/live/888888/777777/3701.m3u8
 http://rb-group-server.com:25461/live/888888/777777/3700.m3u8
 #EXTINF:-1,USA WWEHD
 http://rb-group-server.com:25461/live/888888/777777/3695.m3u8
-#EXTINF:-1 tvg-name="US: TBS" tvg-logo="http://logo.ndasat.com/iptv/images/4477_tbs.png" group-title="{BOUQUET_NAME}",US: TBS
+#EXTINF:-1 tvg-name="US: TBS" 
 http://212.8.253.47:88/555155895930609/555155895930609/1639
-#EXTINF:-1 tvg-name="US:WWE us" tvg-logo="http://logo.ndasat.com/iptv/images/94391_wwe.jpg" group-title="{BOUQUET_NAME}",US:WWE us
+#EXTINF:-1 tvg-name="US:WWE us" 
 http://212.8.253.47:88/555155895930609/555155895930609/1657
-#EXTINF:-1 tvg-name="US:Syfy" tvg-logo="http://logo.ndasat.com/iptv/images/3482_syfy.png" group-title="{BOUQUET_NAME}",US:Syfy
+#EXTINF:-1 tvg-name="US:Syfy" 
 http://212.8.253.47:88/555155895930609/555155895930609/1637
-#EXTINF:-1 tvg-name="US:CNN" tvg-logo="http://logo.ndasat.com/iptv/images/40283_cnn.png" group-title="{BOUQUET_NAME}",US:CNN
+#EXTINF:-1 tvg-name="US:CNN" 
 http://212.8.253.47:88/555155895930609/555155895930609/1680
-#EXTINF:-1 tvg-name="US:Espn2" tvg-logo="http://logo.ndasat.com/iptv/images/18253_espn2.jpg" group-title="{BOUQUET_NAME}",US:Espn2
+#EXTINF:-1 tvg-name="US:Espn2"
 http://212.8.253.47:88/555155895930609/555155895930609/1672
-#EXTINF:-1 tvg-name="US:Espn" tvg-logo="http://logo.ndasat.com/iptv/images/68152_espn.png" group-title="{BOUQUET_NAME}",US:Espn
+#EXTINF:-1 tvg-name="US:Espn" 
 http://212.8.253.47:88/555155895930609/555155895930609/1670
-#EXTINF:-1 tvg-name="US:Fight Sports" tvg-logo="http://logo.ndasat.com/iptv/images/45655_fightsports.png" group-title="{BOUQUET_NAME}",US:Fight Sports
+#EXTINF:-1 tvg-name="US:Fight Sports" 
 http://212.8.253.47:88/555155895930609/555155895930609/1669
-#EXTINF:-1 tvg-name="US:Food Network" tvg-logo="http://logo.ndasat.com/iptv/images/80563_foodnetwork.jpg" group-title="{BOUQUET_NAME}",US:Food Network
+#EXTINF:-1 tvg-name="US:Food Network" 
 http://212.8.253.47:88/555155895930609/555155895930609/1668
-#EXTINF:-1 tvg-name="US:HBO HD" tvg-logo="http://logo.ndasat.com/iptv/images/438_hbo.png" group-title="{BOUQUET_NAME}",US:HBO HD
+#EXTINF:-1 tvg-name="US:HBO HD" 
 http://212.8.253.47:88/555155895930609/555155895930609/1665
-#EXTINF:-1 tvg-name="US: History" tvg-logo="http://logo.ndasat.com/iptv/images/48151_history.png" group-title="{BOUQUET_NAME}",US: History
+#EXTINF:-1 tvg-name="US: History" 
 http://212.8.253.47:88/555155895930609/555155895930609/1662
-#EXTINF:-1 tvg-name="US:Fox Sports1" tvg-logo="http://logo.ndasat.com/iptv/images/55626_fs1.png" group-title="{BOUQUET_NAME}",US:Fox Sports1
+#EXTINF:-1 tvg-name="US:Fox Sports1"
 http://212.8.253.47:88/555155895930609/555155895930609/1615
 #EXTINF:-1 tvg-name="US: NAT-GEO-HD" tvg-logo="" group-title="{BOUQUET_NAME}",US: NAT-GEO-HD
 http://212.8.253.47:88/555155895930609/555155895930609/1633
@@ -137,13 +132,13 @@ http://212.8.253.47:88/555155895930609/555155895930609/1854
 http://212.8.253.47:88/555155895930609/555155895930609/1631
 #EXTINF:-1 tvg-name="US:NBCSN HD" tvg-logo="" group-title="{BOUQUET_NAME}",US:NBCSN HD
 http://212.8.253.47:88/555155895930609/555155895930609/1630
-#EXTINF:-1 tvg-name="US: Fox Sports2" tvg-logo="http://logo.ndasat.com/iptv/images/62037_fs2.png" group-title="{BOUQUET_NAME}",US: Fox Sports2
+#EXTINF:-1 tvg-name="US: Fox Sports2" 
 http://212.8.253.47:88/555155895930609/555155895930609/1648
-#EXTINF:-1 tvg-name="US:Nat-Geo-Wild" tvg-logo="" group-title="{BOUQUET_NAME}",US:Nat-Geo-Wild
+#EXTINF:-1 tvg-name="US:Nat-Geo-Wild" 
 http://212.8.253.47:88/555155895930609/555155895930609/1632
-#EXTINF:-1 tvg-name="US:Abc News" tvg-logo="http://logo.ndasat.com/iptv/images/81881_abcnews.jpg" group-title="{BOUQUET_NAME}",US:Abc News
+#EXTINF:-1 tvg-name="US:Abc News"
 http://212.8.253.47:88/555155895930609/555155895930609/1618
-#EXTINF:-1 tvg-name="US: AMC" tvg-logo="http://logo.ndasat.com/iptv/images/24638_amc.jpg" group-title="{BOUQUET_NAME}",US: AMC
+#EXTINF:-1 tvg-name="US: AMC" 
 http://212.8.253.47:88/555155895930609/555155895930609/1623
 #EXTINF:-1,US: ABC FAMILY
 http://landiptv.live:8080/NewuserCathy/ksS4A4glC7/74831
