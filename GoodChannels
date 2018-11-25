@@ -7,3 +7,24 @@ http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/20.ts
 http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/21.ts
 #EXTINF:-1,beIN Sports 3 HD (FR)
 http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/22.ts
+#EXTINF:-1,beIN Sports 4 HD (AR)
+http://rb-group-server.com:25461/live/888888/777777/3164.m3u8
+#EXTINF:-1,beIN Sports 5 HD (AR)
+http://rb-group-server.com:25461/live/888888/777777/3163.m3u8
+#EXTINF:-1,beIN Sports 6 HD (AR)
+http://rb-group-server.com:25461/live/888888/777777/3162.m3u8
+#EXTINF:-1,beIN Sports 7 HD (AR)
+http://rb-group-server.com:25461/live/888888/777777/3161.m3u8
+#EXTINF:-1,beIN Sports 8 HD (AR)
+http://rb-group-server.com:25461/live/888888/777777/3160.m3u8
+#EXTINF:-1,beIN Sports 9 HD (AR)
+http://rb-group-server.com:25461/live/888888/777777/3159.m3u8
+#EXTINF:-1,beIN Sports 10 HD (AR)
+http://rb-group-server.com:25461/live/888888/777777/3158.m3u8
+#EXTINF:-1,beIN Sports 11 HD (EN)
+http://rb-group-server.com:25461/live/888888/777777/3157.m3u8
+#EXTINF:-1,beIN Sports 12 HD (EN)
+http://rb-group-server.com:25461/live/888888/777777/3156.m3u8
+
+#EXTINF:-1,beIN Sports USA HD (US)
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/24.ts
