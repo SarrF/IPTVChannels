@@ -35,4 +35,23 @@ http://rb-group-server.com:25461/live/888888/777777/3716.m3u8
 #EXTINF:-1,Fox Sports2 (USA)
 http://rb-group-server.com:25461/live/888888/777777/3715.m3u8
 
+#EXTINF:-1,Sky Sport 1 HD (IT)
+http://m-iptv.net:6204/lawa2/erde/9425
+#EXTINF:-1,Sky Sport 2 HD (IT)
+http://m-iptv.net:6204/lawa2/erde/9424
+#EXTINF:-1,Sky Bundesliga 1
+http://93.190.141.193:8080/live/atlasuk/34HJXu2w5t/435.m3u8
+
+#EXTINF:-1,BT Sports 1
+http://rb-group-server.com:25461/live/888888/777777/4777.m3u8
+#EXTINF:-1,BT Sports 2
+http://rb-group-server.com:25461/live/888888/777777/4776.m3u8
+
+
+
+
+
+
+
+
 
